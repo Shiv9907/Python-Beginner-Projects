@@ -1,7 +1,0 @@
-This Project is a HiLo game
-The computer tries to guess a number that the user has chosen from the range 1 to 1000
-the user has to enter h if the computer has guessed a number lower than the correct one
-and enter l if higher than the correct one.
-
-Press ENTER to start
-Enjoy!
